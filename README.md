@@ -1,7 +1,7 @@
 # IR-Project
 - **Backed.py**
 - **IndexCreation.ipynb**
-- Creating the indexes and save them to .pickle files
+  Creating the indexes and save them to .pickle files
 - **Inverted_index_gcp.py**
 - Creating and reading the inverted indexes
 - **Start.py**
